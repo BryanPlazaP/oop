@@ -4,9 +4,12 @@ public class Main {
     public static void main(String[] args) {
         //printLine( 10);
         //printSquare(6);
+
+
         printTriangle(3);
         printTriangle(5);
         printTriangle(7);
+
     }
     //  public static void printLine(int n){
     //    for(int i = 0; i < n; i++) {
